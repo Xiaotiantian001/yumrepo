@@ -1,0 +1,1 @@
+rm -rf /etc/yum.repos.d/CentOS* && wget -O /etc/yum.repos.d/CentOS-Base.repo https://cdn.jsdelivr.net/gh/Xiaotiantian001/yumrepo/CentOS6-Base.repo
